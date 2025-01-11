@@ -1,0 +1,4 @@
+Harshith, 100
+Mohit, 50
+Nitish, 200
+Aditya, 100

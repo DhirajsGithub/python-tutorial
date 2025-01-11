@@ -1,0 +1,27 @@
+//basics commands of python:
+
+//pwd : to locate your location
+//ls : to show the number of files in that disk/files
+//clear : to clear all stuff on termunal/git
+//cd F:// : to move from any disk E to disk F
+//mkdir "command line practise" : will create 'command line practise' folder in respective drive
+//mkdir command_line_practise : will create 'command line practise' folder in respective drive
+//cd command_line_practise/ : will move you to 'command line practise' folder
+//touch new_documernt.txt : will create a new_documernt text file in the folder you are in 
+//touch hello.py : will create a hello python file in the folder you are in
+//touch hello.java : will create a hello java file in the folder you are in
+//cd .. : will back you from the folder you were in
+//shortcut : thoda likh likhkar apn tab press kar sakte toh woh pura ho jata hai
+//rm hello.py : will delete the file 'hello'
+//rm -rf command_line_practise/ : will delete the command_line_practise folder
+//rm -rf "command line practise"/ : will delete the command line practise folder
+//code hello.py : will open a file hello.py in visual studio to write a code in python
+//note: code file_name : will open file_name wali file in visualstudio agar woh file pahale se hi na bani ho toh bhi
+//python hello.py : will run the file hello.py
+//shortcut: control + tilt == opens terminal and closes also
+//cd ~ : wil bring you back were you were :)
+//mv hello.py file1.py : will rename your file from hello.py to file.py
+//mv hello.py ./new_folder : will move hello.py file toh new folder, provided both file and folder are in same disl/folder
+//mv hello.py ..  : will move hello.py file to back folder.
+//cp hello.py ./new_folder/ : will copied the hello.py file to new_folder folder 
+//shortcut up arrow will automatically type your above commands in terminal             

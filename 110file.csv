@@ -1,0 +1,6 @@
+name, email, phone
+harshith, harshith@123gmail.com, 9927017638
+mohit, mohit@123gmail.com, 2090456892 
+
+
+note we can also create .csv file with pipe(|) instead of comma 
